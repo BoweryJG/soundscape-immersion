@@ -1,0 +1,45 @@
+DEEP SPACE AMBIENT SOUNDSCAPE
+==============================
+
+Source: NASA Hubble Sonifications
+URL: https://science.nasa.gov/mission/hubble/multimedia/sonifications/
+Data Source: Hubble Space Telescope observations
+Format: MP3/WAV
+Processing: Data sonification of astronomical observations
+
+Description:
+Deep space ambient sounds created from real Hubble Space Telescope data converted into audio frequencies. These sonifications transform light data from distant galaxies, nebulae, and cosmic phenomena into hauntingly beautiful ambient soundscapes.
+
+Technical Process:
+- Hubble observes electromagnetic radiation across spectrum
+- Data mapped to audible frequencies (20Hz-20kHz)
+- Different wavelengths assigned to different tones
+- Radio waves → lowest tones
+- Visible light → medium tones  
+- X-rays → highest tones
+
+Featured Sonifications:
+- Galaxy cluster collisions
+- Supernova remnants
+- Planetary nebulae
+- Black hole accretion disks
+- Deep field observations
+
+NASA Sonification Projects:
+1. "Listen to the Universe" documentary series
+2. Hubble data sonification app
+3. Chandra X-ray Observatory sounds
+4. James Webb Space Telescope sonifications
+
+Download Sources:
+- NASA Science website
+- NASA SoundCloud channel
+- NASA YouTube (audio extraction)
+- University astronomy departments
+
+Usage:
+- Deep meditation and contemplation
+- Cosmic consciousness exploration
+- Sleep and relaxation
+- Background for space-themed content
+- Educational astronomy presentations

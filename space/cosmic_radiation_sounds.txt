@@ -1,0 +1,56 @@
+COSMIC RADIATION SOUNDS SOUNDSCAPE
+===================================
+
+Source: University of Iowa Space Audio / NASA
+URL: https://space-audio.org/
+Data Source: Spacecraft plasma wave detectors
+License: Creative Commons Attribution 4.0
+Format: MP3/WAV
+
+Description:
+Real cosmic radiation and charged particle interactions converted to audible sound. These recordings capture the electromagnetic "voice" of cosmic rays, solar particles, and interplanetary plasma as detected by spacecraft instruments.
+
+Scientific Background:
+- Cosmic rays are high-energy particles from deep space
+- Plasma waves occur naturally at audible frequencies
+- Spacecraft antennas detect oscillating electric/magnetic fields
+- No sound travels in space, but plasma waves are electromagnetic
+
+Data Sources:
+1. Van Allen Probes - Earth's radiation belts
+2. Parker Solar Probe - Solar wind and corona
+3. Voyager 1 & 2 - Interstellar plasma
+4. Cassini - Saturn's magnetosphere
+5. Juno - Jupiter's radiation environment
+
+CRaTER Live Project:
+- Real-time cosmic ray detection on Moon
+- Lunar Reconnaissance Orbiter data
+- Musical instruments reflect radiation intensity
+- Streaming audio based on particle impacts
+
+Featured Recordings:
+- Solar flare electromagnetic bursts
+- Cosmic ray shower events
+- Magnetosphere boundary crossings
+- Planetary radiation belt sounds
+- Interstellar medium interactions
+
+Download Sources:
+- University of Iowa space-audio.org
+- NASA plasma wave recordings
+- CRaTER Live streaming (listen.spacescience.org)
+- Research institution data archives
+
+Applications:
+- Scientific education and outreach
+- Ambient space meditation
+- Cosmic awareness and connection
+- Background for space documentaries
+- Artistic and creative projects
+
+Technical Notes:
+- Frequencies in human hearing range (20Hz-20kHz)
+- Real electromagnetic data, not synthesized
+- Multiple spacecraft provide different perspectives
+- Creative Commons licensing allows broad use

@@ -1,0 +1,88 @@
+INTERSTELLAR DRONE SOUNDSCAPE
+==============================
+
+Source: Voyager 1 & 2 Missions / University of Iowa
+URL: https://space-audio.org/ (Voyager section)
+Data Source: Plasma Wave Subsystem (PWS) instruments
+Mission Duration: 1977-present (ongoing)
+License: NASA public domain / Creative Commons
+Format: MP3/WAV
+
+Description:
+The actual sounds of interstellar space recorded by Voyager 1 and Voyager 2 spacecraft as they crossed from our solar system into the interstellar medium. These are the most distant human-made recordings, capturing the "voice" of the space between stars.
+
+Historic Achievements:
+- **Voyager 1**: First human-made object in interstellar space (August 2012)
+- **Voyager 2**: Second spacecraft to cross heliopause (November 2018)
+- **Distance**: Over 14+ billion miles from Earth
+- **Data**: 40+ years of continuous plasma wave monitoring
+
+Sonic Characteristics:
+- **Heliosphere**: Low frequencies ~300 Hz (solar wind plasma)
+- **Interstellar**: Higher frequencies 2-3 kHz (denser cosmic plasma)
+- **Termination Shock**: Dramatic frequency shifts at boundary
+- **Heliopause**: Distinct change in electromagnetic signature
+
+Key Recordings:
+1. **Termination Shock Crossing** - Solar wind hits interstellar medium
+2. **Electron Plasma Oscillations** - Charged particle interactions
+3. **Interstellar Plasma Music** - Two major "outbursts" detected
+   - October-November 2012
+   - April-May 2013
+4. **Galactic Cosmic Ray Modulation** - Particle density changes
+
+Scientific Context:
+- Plasma waves are natural electromagnetic oscillations
+- Human hearing range (20Hz-20kHz) captures these phenomena
+- No traditional "sound" in space vacuum
+- Antennas detect electric/magnetic field oscillations
+- Direct scientific data, not synthesized
+
+University of Iowa Archives:
+- Complete Voyager plasma wave library
+- Jupiter, Saturn, Uranus, Neptune encounters
+- Interplanetary cruise phase recordings
+- Real-time data processing techniques
+- Educational and research applications
+
+Emotional Descriptions:
+- "Hauntingly like human voices singing"
+- "Giant Tibetan bowls resonating"
+- "Cosmic wind through infinite space"
+- "The loneliness of deep space"
+- "Ancient electromagnetic conversations"
+
+Technical Specifications:
+- **Instruments**: PWS (Plasma Wave Subsystem)
+- **Frequency Range**: 10 Hz to 56 kHz
+- **Antenna Configuration**: 10-meter electric dipole
+- **Data Rate**: Variable, optimized for distance
+- **Processing**: Real-time and ground-based analysis
+
+Download and Access:
+1. University of Iowa space-audio.org
+2. NASA Voyager mission archives
+3. JPL (Jet Propulsion Laboratory) sound library
+4. Educational astronomy resources
+5. Science museum digital collections
+
+Applications:
+- **Meditation**: Connection with cosmic scale
+- **Education**: Understanding interstellar medium
+- **Art**: Ambient music and sound installation
+- **Research**: Plasma physics and space science
+- **Philosophy**: Human presence in cosmic context
+
+Cultural Impact:
+- First sounds from outside our solar system
+- Represents human reach into galactic space
+- Audio documentation of historic space exploration
+- Connection between Earth and interstellar medium
+- Symbol of human curiosity and scientific achievement
+
+Legacy Data:
+- Continuous recording since 1977
+- Expected to transmit until ~2025-2030
+- Irreplaceable scientific and cultural resource
+- Most distant human communication ever achieved
+- Bridge between solar system and galaxy
