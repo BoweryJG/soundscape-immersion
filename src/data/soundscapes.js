@@ -4,7 +4,7 @@ export const soundscapes = [
     id: 1,
     name: "Ocean Waves Crashing",
     category: "ocean",
-    file: "/sounds/ocean/ocean-waves.mp3",
+    file: "https://cdn.pixabay.com/download/audio/2022/06/07/audio_b9bd4170e4.mp3",
     description: "Powerful ocean waves crashing on a rocky shore",
     color: "#0077be",
     visualization: "waveforms"
@@ -13,7 +13,7 @@ export const soundscapes = [
     id: 2,
     name: "Gentle Ocean Waves",
     category: "ocean", 
-    file: "/sounds/ocean/beach-waves.mp3",
+    file: "https://cdn.pixabay.com/download/audio/2021/10/19/audio_c8c8a73467.mp3",
     description: "Soft, rhythmic waves lapping the shore",
     color: "#87ceeb",
     visualization: "gentleWaves"
@@ -22,7 +22,7 @@ export const soundscapes = [
     id: 3,
     name: "Gentle Ocean",
     category: "ocean",
-    file: "/sounds/ocean/ocean-meditation.mp3", 
+    file: "https://cdn.pixabay.com/download/audio/2021/11/22/audio_3e5b3dd36f.mp3", 
     description: "Deep ocean meditation with whale songs",
     color: "#4682b4",
     visualization: "underwater"
@@ -31,7 +31,7 @@ export const soundscapes = [
     id: 4,
     name: "Ocean Nature Sounds",
     category: "ocean",
-    file: "/sounds/ocean/ocean-waves.mp3",
+    file: "https://cdn.pixabay.com/download/audio/2022/06/07/audio_b9bd4170e4.mp3",
     description: "Natural ocean soundscape for relaxation",
     color: "#5f9ea0",
     visualization: "oceanDepth"
@@ -40,7 +40,7 @@ export const soundscapes = [
     id: 5,
     name: "Underwater Ambience",
     category: "ocean",
-    file: "/sounds/ocean/underwater-ambience.mp3",
+    file: "https://cdn.pixabay.com/download/audio/2022/03/24/audio_1ac69dc0a2.mp3",
     description: "Mysterious underwater world sounds",
     color: "#008b8b",
     visualization: "underwater"
@@ -49,7 +49,7 @@ export const soundscapes = [
     id: 6,
     name: "Mountain Stream",
     category: "ocean", 
-    file: "/sounds/ocean/mountain-stream.mp3",
+    file: "https://cdn.pixabay.com/download/audio/2022/03/10/audio_e36537db61.mp3",
     description: "Crystal clear mountain stream flowing",
     color: "#40e0d0",
     visualization: "stream"
@@ -58,7 +58,7 @@ export const soundscapes = [
     id: 7,
     name: "Waterfall Forest",
     category: "ocean",
-    file: "/sounds/ocean/waterfall.mp3", 
+    file: "https://cdn.pixabay.com/download/audio/2022/03/07/audio_e06ab59d02.mp3", 
     description: "Majestic waterfall in forest setting",
     color: "#20b2aa",
     visualization: "waterfall"
@@ -67,7 +67,7 @@ export const soundscapes = [
     id: 8,
     name: "Rain on Lake",
     category: "ocean",
-    file: "/sounds/ocean/rain-on-lake.mp3",
+    file: "https://cdn.pixabay.com/download/audio/2022/05/16/audio_c01f8c9bce.mp3",
     description: "Gentle rain drops on calm lake surface",
     color: "#778899",
     visualization: "rainDrops"
@@ -76,7 +76,7 @@ export const soundscapes = [
     id: 9,
     name: "River Flowing",
     category: "ocean",
-    file: "/sounds/ocean/river-flowing.mp3",
+    file: "https://cdn.pixabay.com/download/audio/2021/11/26/audio_b80a5d40d2.mp3",
     description: "Peaceful river flowing through nature",
     color: "#6495ed",
     visualization: "riverFlow"
@@ -85,7 +85,7 @@ export const soundscapes = [
     id: 10,
     name: "Tropical Beach",
     category: "ocean",
-    file: "/sounds/ocean/harbor-night.mp3",
+    file: "https://cdn.pixabay.com/download/audio/2022/05/13/audio_fbb7162cf2.mp3",
     description: "Exotic tropical beach with palm trees",
     color: "#00ced1",
     visualization: "tropical"
@@ -96,7 +96,7 @@ export const soundscapes = [
     id: 11,
     name: "Rainforest Dawn Chorus", 
     category: "forest",
-    file: "/sounds/forest/rainforest-dawn.mp3",
+    file: "https://cdn.pixabay.com/download/audio/2023/04/11/audio_2a002f0d67.mp3",
     description: "Awakening rainforest with bird symphony",
     color: "#228b22",
     visualization: "forestDawn"
@@ -105,7 +105,7 @@ export const soundscapes = [
     id: 12,
     name: "Forest Birds",
     category: "forest",
-    file: "/sounds/forest/forest-birds-new.mp3", 
+    file: "https://cdn.pixabay.com/download/audio/2022/03/09/audio_c2d8635243.mp3", 
     description: "Melodic forest birds in harmony",
     color: "#32cd32",
     visualization: "birdChorus"
@@ -123,7 +123,7 @@ export const soundscapes = [
     id: 14,
     name: "Wind Through Trees",
     category: "forest", 
-    file: "/sounds/forest/leaves-rustling.mp3",
+    file: "https://cdn.pixabay.com/download/audio/2022/03/24/audio_5e45010065.mp3",
     description: "Gentle wind rustling through leaves",
     color: "#9acd32",
     visualization: "windTrees"
@@ -132,7 +132,7 @@ export const soundscapes = [
     id: 15,
     name: "Deep Forest Ambience",
     category: "forest",
-    file: "/sounds/forest/pine-forest.mp3",
+    file: "https://cdn.pixabay.com/download/audio/2021/09/06/audio_1a77341751.mp3",
     description: "Mysterious deep forest atmosphere", 
     color: "#006400",
     visualization: "deepForest"
@@ -141,7 +141,7 @@ export const soundscapes = [
     id: 16,
     name: "Forest Creek Babbling",
     category: "forest",
-    file: "/sounds/forest/forest-creek.mp3",
+    file: "https://cdn.pixabay.com/download/audio/2022/09/06/audio_72502a492e.mp3",
     description: "Babbling brook through forest glade",
     color: "#2e8b57",
     visualization: "forestCreek"
@@ -150,7 +150,7 @@ export const soundscapes = [
     id: 17,
     name: "Night Forest Sounds",
     category: "forest",
-    file: "/sounds/forest/night-forest.mp3", 
+    file: "https://cdn.pixabay.com/download/audio/2022/06/11/audio_c8cfe64eb9.mp3", 
     description: "Peaceful night forest with crickets",
     color: "#1c5f3e",
     visualization: "nightForest"
@@ -159,7 +159,7 @@ export const soundscapes = [
     id: 18,
     name: "Bamboo Forest Wind",
     category: "forest",
-    file: "/sounds/forest/bamboo-wind.mp3",
+    file: "https://cdn.pixabay.com/download/audio/2021/10/10/audio_88fbcafa3f.mp3",
     description: "Zen bamboo forest with gentle breeze",
     color: "#7cfc00",
     visualization: "bambooForest"
@@ -168,7 +168,7 @@ export const soundscapes = [
     id: 19,
     name: "White Noise Sleep",
     category: "forest",
-    file: "/sounds/forest/jungle-ambience.mp3",
+    file: "https://cdn.pixabay.com/download/audio/2022/10/17/audio_62ae6e8f8d.mp3",
     description: "Calming white noise for deep sleep",
     color: "#98fb98",
     visualization: "calmingSleep"
@@ -179,7 +179,7 @@ export const soundscapes = [
     id: 20,
     name: "Thunderstorm Heavy Rain",
     category: "weather",
-    file: "/sounds/weather/thunderstorm.mp3",
+    file: "https://cdn.pixabay.com/download/audio/2022/05/13/audio_257112cc99.mp3",
     description: "Intense thunderstorm with heavy rainfall",
     color: "#483d8b",
     visualization: "thunderstorm"
@@ -188,7 +188,7 @@ export const soundscapes = [
     id: 21,
     name: "Gentle Spring Rain", 
     category: "weather",
-    file: "/sounds/weather/gentle-rain.mp3",
+    file: "https://cdn.pixabay.com/download/audio/2022/05/27/audio_dcc4938ee5.mp3",
     description: "Soft spring rain on fresh leaves",
     color: "#87ceeb",
     visualization: "springRain"
@@ -197,7 +197,7 @@ export const soundscapes = [
     id: 22,
     name: "Rain on Tent",
     category: "weather",
-    file: "/sounds/weather/rain-on-tent.mp3",
+    file: "https://cdn.pixabay.com/download/audio/2024/09/26/audio_5c60b1dc2f.mp3",
     description: "Cozy rain pattering on canvas tent",
     color: "#708090",
     visualization: "rainTent"
@@ -206,7 +206,7 @@ export const soundscapes = [
     id: 23,
     name: "Distant Rolling Thunder",
     category: "weather", 
-    file: "/sounds/weather/distant-thunder.mp3",
+    file: "https://cdn.pixabay.com/download/audio/2022/10/25/audio_1808fbf07a.mp3",
     description: "Distant thunder rolling across sky",
     color: "#2f4f4f",
     visualization: "distantThunder"
@@ -215,7 +215,7 @@ export const soundscapes = [
     id: 24,
     name: "Heavy Rain on Roof",
     category: "weather",
-    file: "/sounds/weather/heavy-rain.mp3", 
+    file: "https://cdn.pixabay.com/download/audio/2022/06/25/audio_819da61235.mp3", 
     description: "Heavy rain drumming on metal roof",
     color: "#696969",
     visualization: "rainRoof"
@@ -224,7 +224,7 @@ export const soundscapes = [
     id: 25,
     name: "Wind Storm",
     category: "weather",
-    file: "/sounds/weather/wind-storm.mp3",
+    file: "https://cdn.pixabay.com/download/audio/2022/10/09/audio_3e88e99a93.mp3",
     description: "Powerful wind storm howling",
     color: "#778899",
     visualization: "windStorm"
@@ -233,7 +233,7 @@ export const soundscapes = [
     id: 26,
     name: "Snow Falling Peacefully", 
     category: "weather",
-    file: "/sounds/weather/rain-window.mp3",
+    file: "https://cdn.pixabay.com/download/audio/2021/11/06/audio_8a37983402.mp3",
     description: "Peaceful snowfall in quiet forest",
     color: "#f0f8ff",
     visualization: "snowfall"
@@ -242,7 +242,7 @@ export const soundscapes = [
     id: 27,
     name: "Hailstorm on Metal",
     category: "weather",
-    file: "/sounds/weather/storm-sea.mp3",
+    file: "https://cdn.pixabay.com/download/audio/2023/03/14/audio_44b3ec3f6e.mp3",
     description: "Dramatic hailstorm on metal surfaces",
     color: "#b0c4de",
     visualization: "hailstorm"
@@ -253,7 +253,7 @@ export const soundscapes = [
     id: 28,
     name: "Singing Bowls",
     category: "meditation",
-    file: "/sounds/meditation/singing-bowls-new.mp3",
+    file: "https://cdn.pixabay.com/download/audio/2022/10/24/audio_0e6a39de0e.mp3",
     description: "Sacred Tibetan singing bowls meditation",
     color: "#dda0dd",
     visualization: "singingBowls"
@@ -262,7 +262,7 @@ export const soundscapes = [
     id: 29,
     name: "Om Chanting Monks",
     category: "meditation", 
-    file: "/sounds/meditation/om-chanting.mp3",
+    file: "https://cdn.pixabay.com/download/audio/2022/08/23/audio_35392fe03d.mp3",
     description: "Deep Om chanting by Tibetan monks",
     color: "#9370db",
     visualization: "sacredChant"
@@ -273,7 +273,7 @@ export const soundscapes = [
     id: 30,
     name: "Crackling Fireplace",
     category: "ambient",
-    file: "/sounds/ambient/test-white-noise.wav",
+    file: "https://cdn.pixabay.com/download/audio/2022/10/18/audio_f86b2569f1.mp3",
     description: "Cozy fireplace with crackling logs",
     color: "#ff6347",
     visualization: "fireplace"
